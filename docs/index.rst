@@ -16,7 +16,7 @@ Como você verá, é possível criar contratos para a votação,
 crowdfunding, leilões, carteiras multi-assinatura e muito mais.
 
 .. note::
-    A melhor maneira de experimentar a Solidiedade agora está usando    
+    A melhor maneira de experimentar a Solidity agora é usando o
     `Remix <https://remix.ethereum.org/>`_
     (Pode levar algum tempo para carregar, seja paciente).
 
