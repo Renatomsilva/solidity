@@ -6,31 +6,30 @@ Solidity
     :alt: Solidity logo
     :align: center
 
-Solidity is a contract-oriented, high-level language for implementing smart contracts.
-It was influenced by C++, Python and JavaScript
-and is designed to target the Ethereum Virtual Machine (EVM).
+Solidity é uma linaguaem de alto nível para implementação de smart contracts.
+Ela foi influenciada por C++ , Pythom e JavaScript e feita para rodar na Ethereum Virtual Machine (EVM)
 
-Solidity is statically typed, supports inheritance, libraries and complex
-user-defined types among other features.
+Solidity é estaticamente tipada, suporta herança, bibliotecas e 
+tipos complexos definidos pelo usuário entre outros recursos.
 
-As you will see, it is possible to create contracts for voting,
-crowdfunding, blind auctions, multi-signature wallets and more.
+Como você verá, é possível criar contratos para a votação,
+crowdfunding, leilões, carteiras multi-assinatura e muito mais.
 
 .. note::
-    The best way to try out Solidity right now is using
+    A melhor maneira de experimentar a Solidiedade agora está usando    
     `Remix <https://remix.ethereum.org/>`_
-    (it can take a while to load, please be patient).
+    (Pode levar algum tempo para carregar, seja paciente).
 
-Translations
-------------
+Tradução
+--------
 
-This documentation is translated into several languages by community volunteers, but the English version stands as a reference.
+Esta documentação é traduzida em vários idiomas por voluntários da comunidade, mas a versão em inglês é a principal referência.
 
 * `Spanish <https://solidity-es.readthedocs.io>`_
 * `Russian <https://github.com/ethereum/wiki/wiki/%5BRussian%5D-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-Solidity>`_ (rather outdated)
+* `Portugues Brazil <https://solidity-docs-prbr.readthedocs.io>`_
 
-
-Useful links
+Links úteis
 ------------
 
 * `Ethereum <https://ethereum.org>`_
@@ -122,8 +121,8 @@ Third-Party Solidity Parsers and Grammars
 * `Solidity Grammar for ANTLR 4 <https://github.com/federicobond/solidity-antlr4>`_
     Solidity grammar for the ANTLR 4 parser generator
 
-Language Documentation
-----------------------
+Documentação da Linguagem
+-------------------------
 
 On the next pages, we will first see a :ref:`simple smart contract <simple-smart-contract>` written
 in Solidity followed by the basics about :ref:`blockchains <blockchain-basics>`
