@@ -124,16 +124,14 @@ Third-Party Solidity Parsers and Grammars
 Documentação da Linguagem
 -------------------------
 
-On the next pages, we will first see a :ref:`simple smart contract <simple-smart-contract>` written
-in Solidity followed by the basics about :ref:`blockchains <blockchain-basics>`
-and the :ref:`Ethereum Virtual Machine <the-ethereum-virtual-machine>`.
+Nas proximas páginas, primeiro veremos um :ref:`simples smart contract <simple-smart-contract>` escrito em Solidity seguido pelo básico sobre :ref:`blockchains <blockchain-basics>`
+e :ref:`Ethereum Virtual Machine <the-ethereum-virtual-machine>`.
 
-The next section will explain several *features* of Solidity by giving
-useful :ref:`example contracts <voting>`
-Remember that you can always try out the contracts
-`in your browser <https://remix.ethereum.org>`_!
+A próxima seção explicara várias *features* do Solidity e suas vantagens :ref:`contrato exemplo <voting>`
+Lembre-se você pode testar seus contractos
+`no seu navegador <https://remix.ethereum.org>`_!
 
-The last and most extensive section will cover all aspects of Solidity in depth.
+A última e mais extensa seção abordará todos os aspectos da Solidity em profundidade.
 
 If you still have questions, you can try searching or asking on the
 `Ethereum Stackexchange <https://ethereum.stackexchange.com/>`_
