@@ -6,8 +6,8 @@ Solidity
     :alt: Solidity logo
     :align: center
 
-Solidity é uma linaguaem de alto nível para implementação de smart contracts.
-Ela foi influenciada por C++ , Pythom e JavaScript e feita para rodar na Ethereum Virtual Machine (EVM)
+Solidity é uma linguagem de alto nível para implementação de smart contracts.
+Ela foi influenciada por C++, Pythom e JavaScript e feita para rodar na Ethereum Virtual Machine (EVM).
 
 Solidity é estaticamente tipada, suporta herança, bibliotecas e 
 tipos complexos definidos pelo usuário entre outros recursos.
