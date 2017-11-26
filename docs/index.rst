@@ -9,7 +9,7 @@ Solidity
 Solidity é uma linguagem de alto nível para implementação de smart contracts.
 Ela foi influenciada por C++, Pythom e JavaScript e feita para rodar na Ethereum Virtual Machine (EVM).
 
-Solidity é estaticamente tipada, suporta herança, bibliotecas e 
+Solidity é estaticamente tipada, suporta herança, bibliotecas e
 tipos complexos definidos pelo usuário entre outros recursos.
 
 Como você verá, é possível criar contratos para a votação,
@@ -27,7 +27,7 @@ Esta documentação é traduzida em vários idiomas por voluntários da comunida
 
 * `Spanish <https://solidity-es.readthedocs.io>`_
 * `Russian <https://github.com/ethereum/wiki/wiki/%5BRussian%5D-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-Solidity>`_ (rather outdated)
-* `Portugues Brazil <https://solidity-docs-prbr.readthedocs.io>`_
+* `Portugues Brazil <http://solidity-docs-ptbr.readthedocs.io/pt/latest/>`_
 
 Links úteis
 ------------
@@ -70,7 +70,7 @@ Available Solidity Integrations
 
 * `Solium <https://github.com/duaraghav8/Solium/>`_
     A commandline linter for Solidity which strictly follows the rules prescribed by the `Solidity Style Guide <http://solidity.readthedocs.io/en/latest/style-guide.html>`_.
-    
+
 * `Solhint <https://github.com/protofire/solhint>`_
     Solidity linter that provides security, style guide and best practice rules for smart contract validation.
 
@@ -91,7 +91,7 @@ Discontinued:
 * `Mix IDE <https://github.com/ethereum/mix/>`_
     Qt based IDE for designing, debugging and testing solidity smart contracts.
 
-* `Ethereum Studio <https://live.ether.camp/>`_		
+* `Ethereum Studio <https://live.ether.camp/>`_
     Specialized web IDE that also provides shell access to a complete Ethereum environment.
 
 Solidity Tools
